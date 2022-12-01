@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **work@bilalalmefleh.com**
 
-- 📄 Know about my experiences [www.bilalalmefleh.com](www.bilalalmefleh.com)
+- 📄 Know about my experiences [https://www.bilalalmefleh.com](https://www.bilalalmefleh.com)
 
 - ⚡ Fun fact **I love video Games**
 <p align="left"> <a href="https://twitter.com/bilalmgableh_1" target="blank"><img src="https://img.shields.io/twitter/follow/bilalmgableh_1?logo=twitter&style=for-the-badge" alt="bilalmgableh_1" /></a> </p>
