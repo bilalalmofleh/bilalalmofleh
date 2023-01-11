@@ -12,7 +12,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/bilalalmofleh](https://github.com/bilalalmofleh)
 
-- 👨‍💻 My stackoverflow profile [[https://github.com/bilalalmofleh](https://stackoverflow.com/users/15383394/bilal-almefleh?tab=profile)](https://stackoverflow.com/users/15383394/bilal-almefleh?tab=profile)
+- 👨‍💻 My stackoverflow profile [(https://stackoverflow.com/users/15383394/bilal-almefleh?tab=profile)](https://stackoverflow.com/users/15383394/bilal-almefleh?tab=profile)
 
 - 💬 Ask me about **Flutter and Dart**
 
