@@ -16,9 +16,7 @@
 
 - 💬 Ask me about **Flutter and Dart**
 
-- 📫 How to reach me **work@bilalalmefleh.com**
-
-- 📄 Know about my experiences [https://www.bilalalmefleh.com](https://www.bilalalmefleh.com)
+- 📫 How to reach me **bilal.almofleh@gmail.com**
 
 
 https://stackoverflow.com/users/15383394/bilal-almefleh?tab=profile
