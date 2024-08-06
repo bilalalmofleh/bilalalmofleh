@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm currently working in Scarlet plus LLC</h1>
+<h1 align="center">Hi 👋, I'm currently working at Scarlet plus LLC</h1>
 <h3 align="center">Senior Full-Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on **EHR System**
