@@ -28,7 +28,10 @@
 - **Remote-First Architecture**: Designing scalable, cloud-native solutions for distributed healthcare teams
 
 ## 💡 Expertise & Focus Areas
-
+✅ HIPAA-Compliant Development ✅ Healthcare Data Security
+✅ EHR/EMR System Architecture ✅ Telehealth Platform Integration
+✅ SEO for Healthcare Websites ✅ Full-Stack Web & Mobile Development
+✅ Performance Optimization ✅ Accessible & Inclusive UI/UX
 
 ## 💬 Let's Connect If You Need Help With
 > **Flutter • Dart • Vue 3 • PHP • Node.js • PostgreSQL • Firebase • HIPAA Architecture • Healthcare SEO • System Design**
